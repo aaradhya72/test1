@@ -3,4 +3,5 @@ add();
 sub();
 mul();
 div();
+  mod();
 }
