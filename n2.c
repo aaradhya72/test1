@@ -1,7 +1,10 @@
 main(){
+	int a,b;
 add();
 {
-	printf("addition");
+	int sum;
+	sum=a+b;
+	printf("addition of a and b=",sum);
 }
 
 sub();
