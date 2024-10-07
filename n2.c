@@ -9,7 +9,9 @@ add();
 
 sub();
 {
-	printf("subtraction");
+	int c,d;
+	sub=c-d;
+	printf("subtraction of a and b=",sub);
 }
 
 mul();
