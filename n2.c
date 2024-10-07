@@ -10,6 +10,13 @@ sub();
 }
 
 mul();
+{
+	printf("multiplication");
+}
 div();
+{
+	printf("division");
+}
+
   mod();
 }
